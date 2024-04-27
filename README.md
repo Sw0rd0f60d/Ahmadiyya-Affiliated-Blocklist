@@ -19,9 +19,9 @@ All of these articles are supported by evidence from their own books. 📚
 We offer the following versions of the block list for download:
 
 | Format |       Link          | Can be used for |
-|--------|---------------------|-----------------|
-| Hostnames |  [:floppy_disk:](https://raw.githubusercontent.com/Sw0rd0f60d/Ahmadiyya-Affiliated-Blocklist/main/Ahmadiyya_affiliated_hostnames.txt)  |AdAway, uMatrix, DNS66, GasMask, NetGuard, Hostfile, Windows|
-| Hostnames ABP |  [:floppy_disk:](https://raw.githubusercontent.com/Sw0rd0f60d/Ahmadiyya-Affiliated-Blocklist/main/Ahmadiyya_affiliated_hostnames_ABP.txt) | Pi-hole, AdGuard, AdGuard Home, eBlocker, uBlock, AdBlock, AdBlock Plus, Opera, Vivaldi, Brave, AdNauseam, Little Snitch Mini|
+|:------:|:-------------------:|-----------------|
+| Hostnames | [:floppy_disk:](https://raw.githubusercontent.com/Sw0rd0f60d/Ahmadiyya-Affiliated-Blocklist/main/Ahmadiyya_affiliated_hostnames.txt)  |AdAway, uMatrix, DNS66, GasMask, NetGuard, Hostfile, Windows |
+| Hostnames ABP | [:floppy_disk:](https://raw.githubusercontent.com/Sw0rd0f60d/Ahmadiyya-Affiliated-Blocklist/main/Ahmadiyya_affiliated_hostnames_ABP.txt) | Pi-hole, AdGuard, AdGuard Home, eBlocker, uBlock, AdBlock, AdBlock Plus, Opera, Vivaldi, Brave, AdNauseam, Little Snitch Mini |
 
 Please choose the version that best suits your needs.
 
