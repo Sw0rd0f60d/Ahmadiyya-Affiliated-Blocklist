@@ -20,6 +20,7 @@
 ||ahmadiyya.de^
 ||ahmadiyya.fi^
 ||ahmadiyya.fr^
+||ahmadiyya.mt^
 ||ahmadiyya.mu^
 ||ahmadiyya.no^
 ||ahmadiyya.org^
@@ -37,6 +38,7 @@
 ||ahmadiyyafiji.wordpress.com^
 ||ahmadiyyagallery.org^
 ||ahmadiyyagazettecanada.ca^
+||ahmadiyyamalta.org^
 ||ahmadiyyamuslimjamaat.in^
 ||ahmadiyyauk.org^
 ||ahmediye.org^
