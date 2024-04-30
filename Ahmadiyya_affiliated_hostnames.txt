@@ -1,13 +1,3 @@
-Alislam.org
-www.Alislam.org
-IslamicFAQ.org
-www.IslamicFAQ.org
-LoveForAllHatredForNone.org
-www.LoveForAllHatredForNone.org
-MuslimForPeace.org
-www.MuslimForPeace.org
-MuslimsForPeace.org
-www.MuslimsForPeace.org
 aaiia.nl
 www.aaiia.nl
 aaiil.org
@@ -110,6 +100,8 @@ alislam.it
 www.alislam.it
 alislam.mk
 www.alislam.mk
+alislam.org
+www.alislam.org
 alislam.org.il
 www.alislam.org.il
 alislam.pt
@@ -160,6 +152,8 @@ islamahmadiyya.ie
 www.islamahmadiyya.ie
 islamahmadiyya.net
 www.islamahmadiyya.net
+islamicfaq.org
+www.islamicfaq.org
 islamnu.nl
 www.islamnu.nl
 ivisep.org
@@ -198,6 +192,8 @@ lighthousemuslim.blogspot.com
 www.lighthousemuslim.blogspot.com
 lightofislam.in
 www.lightofislam.in
+loveforallhatredfornone.org
+www.loveforallhatredfornone.org
 mkausa.org
 www.mkausa.org
 moslim.org
@@ -206,8 +202,12 @@ mta.tv
 www.mta.tv
 muslim.org
 www.muslim.org
+muslimforpeace.org
+www.muslimforpeace.org
 muslimsforlife.org
 www.muslimsforlife.org
+muslimsforpeace.org
+www.muslimsforpeace.org
 muslimsunrise.com
 www.muslimsunrise.com
 orljamaat.org
@@ -226,6 +226,8 @@ studiislam.wordpress.com
 www.studiislam.wordpress.com
 tahirfoundation.org
 www.tahirfoundation.org
+tarbiyyat.de
+www.tarbiyyat.de
 thepersecution.org
 www.thepersecution.org
 trueislam.com
