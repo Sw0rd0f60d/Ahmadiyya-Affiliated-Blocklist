@@ -10,6 +10,7 @@
 ||ahmadija.ba^
 ||ahmadija.cz^
 ||ahmadija.org.mt^
+||ahmadipedia.org^
 ||ahmadiyah.id^
 ||ahmadiyya-islam.nl^
 ||ahmadiyya-islam.org^
@@ -68,6 +69,7 @@
 ||askislam.org^
 ||asociacijaahmadija.lt^
 ||atfalusa.org^
+||exploreislam.ca^
 ||faaiin.nl^
 ||free-islamic-course.org^
 ||islam-ahmadiyya.lv^
@@ -115,7 +117,9 @@
 ||studiislam.wordpress.com^
 ||tahirfoundation.org^
 ||tarbiyyat.de^
+||theartofmisinformation.wordpress.com^
 ||thepersecution.org^
+||trueislam.co.uk^
 ||trueislam.com^
 ||whiteminaret.org^
 ||whyahmadi.org^
