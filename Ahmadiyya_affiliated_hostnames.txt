@@ -42,6 +42,8 @@ ahmadiyya.fi
 www.ahmadiyya.fi
 ahmadiyya.fr
 www.ahmadiyya.fr
+ahmadiyya.mt
+www.ahmadiyya.mt
 ahmadiyya.mu
 www.ahmadiyya.mu
 ahmadiyya.no
@@ -76,6 +78,8 @@ ahmadiyyagallery.org
 www.ahmadiyyagallery.org
 ahmadiyyagazettecanada.ca
 www.ahmadiyyagazettecanada.ca
+ahmadiyyamalta.org
+www.ahmadiyyamalta.org
 ahmadiyyamuslimjamaat.in
 www.ahmadiyyamuslimjamaat.in
 ahmadiyyauk.org
