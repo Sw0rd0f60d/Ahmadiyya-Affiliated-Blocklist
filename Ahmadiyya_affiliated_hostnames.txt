@@ -22,6 +22,8 @@ ahmadija.cz
 www.ahmadija.cz
 ahmadija.org.mt
 www.ahmadija.org.mt
+ahmadipedia.org
+www.ahmadipedia.org
 ahmadiyah.id
 www.ahmadiyah.id
 ahmadiyya-islam.nl
@@ -138,6 +140,8 @@ asociacijaahmadija.lt
 www.asociacijaahmadija.lt
 atfalusa.org
 www.atfalusa.org
+exploreislam.ca
+www.exploreislam.ca
 faaiin.nl
 www.faaiin.nl
 free-islamic-course.org
@@ -232,8 +236,12 @@ tahirfoundation.org
 www.tahirfoundation.org
 tarbiyyat.de
 www.tarbiyyat.de
+theartofmisinformation.wordpress.com
+www.theartofmisinformation.wordpress.com
 thepersecution.org
 www.thepersecution.org
+trueislam.co.uk
+www.trueislam.co.uk
 trueislam.com
 www.trueislam.com
 whiteminaret.org
