@@ -64,6 +64,8 @@ ahmadiyya.mt
 www.ahmadiyya.mt
 ahmadiyya.mu
 www.ahmadiyya.mu
+ahmadiyya.ng
+www.ahmadiyya.ng
 ahmadiyya.no
 www.ahmadiyya.no
 ahmadiyya.org
@@ -188,6 +190,8 @@ humanityfirst.ch
 www.humanityfirst.ch
 humanityfirst.de
 www.humanityfirst.de
+humanityfirst.ng
+www.humanityfirst.ng
 humanityfirst.org
 www.humanityfirst.org
 humanityfirst.org.pk
@@ -306,6 +310,8 @@ revuederreligionen.de
 www.revuederreligionen.de
 rishtanata.us
 www.rishtanata.us
+sanatotijarat.ng
+www.sanatotijarat.ng
 studiislam.wordpress.com
 www.studiislam.wordpress.com
 tablighportal.de
@@ -318,6 +324,8 @@ theartofmisinformation.wordpress.com
 www.theartofmisinformation.wordpress.com
 theglobaloutreach.net
 www.theglobaloutreach.net
+themuslimtimes.info
+www.themuslimtimes.info
 thepersecution.org
 www.thepersecution.org
 trueislam.co.uk
