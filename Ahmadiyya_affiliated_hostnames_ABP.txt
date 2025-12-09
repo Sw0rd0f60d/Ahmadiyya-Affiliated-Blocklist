@@ -31,6 +31,7 @@
 ||ahmadiyya.lk^
 ||ahmadiyya.mt^
 ||ahmadiyya.mu^
+||ahmadiyya.ng^
 ||ahmadiyya.no^
 ||ahmadiyya.org^
 ||ahmadiyya.org.au^
@@ -93,6 +94,7 @@
 ||hfuk.org^
 ||humanityfirst.ch^
 ||humanityfirst.de^
+||humanityfirst.ng^
 ||humanityfirst.org^
 ||humanityfirst.org.pk^
 ||humanityfirstcanada.ca^
@@ -152,12 +154,14 @@
 ||reviewofreligions.org^
 ||revuederreligionen.de^
 ||rishtanata.us^
+||sanatotijarat.ng^
 ||studiislam.wordpress.com^
 ||tablighportal.de^
 ||tahirfoundation.org^
 ||tarbiyyat.de^
 ||theartofmisinformation.wordpress.com^
 ||theglobaloutreach.net^
+||themuslimtimes.info^
 ||thepersecution.org^
 ||trueislam.co.uk^
 ||trueislam.com^
